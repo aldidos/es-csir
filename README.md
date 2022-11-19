@@ -5,9 +5,9 @@
 - With increasing popularity of Deep Learning (DL) software development, code quality issue rises in DL software development. To understand the code smell risk in DL software development, we performed a quantitative analysis on code smell introduction and removal practices of DL developers. We collected a dataset of code smell introduction and removal history of DL developers from several open source DL software GitHub repositories and then quantitatively analyzed the collected dataset. As the result of the quantitative analysis, we observed the following three findings on code smell introduction and removal practices of DL developers. First, DL developers tend to perform code smell introduction practice more than code smell removal practice. Second, DL developers have slightly broader code smell introduction scope than code smell removal scope. Third, regular and irregular DL developers have less difference in both code smell introduction and removal practices. The results indicate that DL developers have very poor awareness on code smell risk.
 
 # Team
-- This study id designed and performed by Jungil Kim and Eunjoo Lee. If you encounter any problems, please open an issue or feel free to contact us:
-Jungil Kim : A researcher at Center of Self-Organizing Software of Kyungpook National University (KNU); 2009307043@knu.ac.kr
-Eunjoo Lee : Professor at KNU; ejlee@knu.ac.kr
+ - This study is designed and performed by Jungil Kim and Eunjoo Lee. If you encounter any problems, please open an issue or feel free to contact us:
+   - Jungil Kim : A researcher at Center of Self-Organizing Software of Kyungpook National University (KNU); 2009307043@knu.ac.kr
+   - Eunjoo Lee : Professor at KNU; ejlee@knu.ac.kr
 
 # Description
  This repository contains a set of source code (src/es/csir) which was used to form our study dataset and the processed dataset files (preprocessed_dataset). 
